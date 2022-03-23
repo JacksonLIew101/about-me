@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jackson Liew</h1>
-<h3 align="center">A passionate first year Computer Science Student in Malaysia</h3>
+<h3 align="center">A passionate second year Computer Science Student in Malaysia</h3>
 
 - 👀 I’m interested in Data Science, Automation, Web Application
 
-- 🌱 I’m currently learning **PowerBI, Tableau, mySQL, Python, C++**
+- 🌱 I’m currently learning **PowerBI, Tableau, MySQL, Python, C++**
 
 - 📫 How to reach me **https://www.linkedin.com/in/jacksonliew/**
 
