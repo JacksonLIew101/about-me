@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson Liew</h1>
-<h3 align="center">A passionate second year Computer Science Student in Malaysia</h3>
+<h3 align="center">A Computer Science Graduate from Malaysia</h3>
 
 - 👀 I’m interested in Data Science, Automation, Web Application
 
