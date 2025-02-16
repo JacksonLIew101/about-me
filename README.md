@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Data Science, Automation, Web Application
 
-- 🌱 I’m currently learning **PowerBI, Tableau, MySQL, Python, C++**
+- 🌱 I’m currently growing in data engineering role with the following tech stacks: **Apache Spark, Kafka, Airflow, Python, Azure, Databricks, DBT**
 
 - 📫 How to reach me **https://www.linkedin.com/in/jacksonliew/**
 
