@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jackson Liew</h1>
 <h3 align="center">A Computer Science Graduate from Malaysia</h3>
 
-- 👀 I’m interested in Data Science, Automation, Web Application
-
 - 🌱 I’m currently growing in data engineering role with the following tech stacks: **Apache Spark, Kafka, Airflow, Python, Azure, Databricks, DBT**
 
 - 📫 How to reach me **https://www.linkedin.com/in/jacksonliew/**
 
-- ⚡ Fun fact **I love running and hiking**
+- ⚡ Fun fact **I love playing guitar, gym and swimming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
